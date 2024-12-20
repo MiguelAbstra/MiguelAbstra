@@ -2,17 +2,15 @@
 
 ## 👀 I’m interested in
 - Software development
-- Cybersecurity
+- Data Science/AI
 
 ## 🌱 I’m currently learning
 - Advanced Python techniques
 - Full-stack development
-- Cybersecurity fundamentals
 
 ## 💞️ I’m looking to collaborate on
 - Open source projects
 - App development
-- Security-related projects
 
 ## 📫 How to reach me
 - Email: [eduardopadronet@gmail.com]
