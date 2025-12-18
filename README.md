@@ -1,12 +1,11 @@
 # Hi there, I'm @MiguelAbstra, A Software Engineer Student 👋
 
 ## 👀 I’m interested in
-- Software development
-- Data Science/AI
+- Software Development
+- Android Development
 
 ## 🌱 I’m currently learning
-- Advanced Python techniques
-- Full-stack development
+- Java Development
 
 ## 💞️ I’m looking to collaborate on
 - Open source projects
